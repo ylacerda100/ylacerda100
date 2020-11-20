@@ -30,8 +30,7 @@
 </a>
 
 <a href="mailto:ylacerda100@gmail.com?subject=Hello" target="_blank">
-<img width=45 src="
-https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
+<img width=45 src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
 </a>
 
 
