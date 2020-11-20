@@ -29,6 +29,8 @@
 <img width=50 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
 </a>
 
+![GitHub Logo](/images/logo.png)
+
 </div>
 
 ---
