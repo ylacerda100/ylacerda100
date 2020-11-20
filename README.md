@@ -2,7 +2,7 @@
 
 ## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-🎓 **Estudante de Ciência da Computação, Universidade Paulista**<br>❤️ **Apaixonado por tecnologia**<br>**23 anos e buscando uma oportunidade no mundo de desenvolvimento**
+🎓 **Estudante de Ciência da Computação, Universidade Paulista**<br>❤️ **Apaixonado por tecnologia**
   
   - 🔭 **Atualmente iniciando no mundo Dev**
   - 🌱 **Tenho aprendido:** **Python**, **JavaScript**, **Html/CSS**
