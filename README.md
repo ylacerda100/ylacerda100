@@ -29,7 +29,12 @@
 <img width=50 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
 </a>
 
-![GitHub Logo](/images/logo.png)
+<a href="mailto:ylacerda100@gmail.com?subject=Hello" target="_blank">
+<img width=45 src="
+https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
+</a>
+
+
 
 </div>
 
