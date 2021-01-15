@@ -10,6 +10,7 @@
 
 **Linguagens / Tecnologias / Aprendendo:**
 
+<code><img alt="CSharp" title="CSharp" height="25" src="icon/csharp.png"></code>
 <code><img alt="JavaScript" title="JavScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="Python" title="Python" height="30" src="https://user-images.githubusercontent.com/64699971/89713016-15e0bf00-d96b-11ea-8a6f-65a30aa79597.jpg"></code>
 <code><img alt="Django" title="Django" height="20" src="https://user-images.githubusercontent.com/64699971/89713032-46285d80-d96b-11ea-9ef0-7e3c9f8513aa.jpg"></code>
