@@ -5,7 +5,7 @@
 🎓 **Estudante de Ciência da Computação, Universidade Paulista**<br>❤️ **Apaixonado por tecnologia**
   
   - 🔭 **Atualmente iniciando no mundo Dev**
-  - 🌱 **Tenho aprendido:** **Python**, **JavaScript**, **Html/CSS**
+  - 🌱 **Tenho aprendido:** **C#**, **Python**, **JavaScript**, **Html/CSS**
   - 💬 **Ask me about:** 🔋 Tecnologia, :ramen:Animes, :video_game:Jogos e :movie_camera:Filmes.
 
 **Linguagens / Tecnologias / Aprendendo:**
