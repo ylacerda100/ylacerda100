@@ -12,11 +12,11 @@
 
 <code><img alt="CSharp" title="CSharp" height="25" src="icon/csharp.png"></code>
 <code><img alt="JavaScript" title="JavScript" height="20" src="icon/javascript.png"></code>
-<code><img alt="Python" title="Python" height="30" src="https://user-images.githubusercontent.com/64699971/89713016-15e0bf00-d96b-11ea-8a6f-65a30aa79597.jpg"></code>
+<code><img alt="Python" title="Python" height="30" src="icon/python.png"></code>
 <code><img alt="Django" title="Django" height="20" src="https://user-images.githubusercontent.com/64699971/89713032-46285d80-d96b-11ea-9ef0-7e3c9f8513aa.jpg"></code>
 <code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
 <code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
-<code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
+<code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="icon/vscode.png"></code>
 
 <div align=center>
 
