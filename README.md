@@ -2,7 +2,7 @@
 
 ## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-🎓 **Estudante de Ciência da Computação, Estagiário de Desenvolvimento**<br>❤️ **Apaixonado por tecnologia**
+🎓 **Estudante de Ciência da Computação, Estagiário de Desenvolvimento C#**<br>❤️ **Apaixonado por tecnologia**
   
   - 🔭 **Atualmente iniciando no mundo Dev**
   - 🌱 **Tenho aprendido:** **C#**, **JavaScript**
