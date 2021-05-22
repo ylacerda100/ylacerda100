@@ -11,6 +11,7 @@
 **Linguagens / Tecnologias / Aprendendo:**
 
 <code><img alt="CSharp" title="CSharp" height="25" src="icon/csharp.png"></code>
+<code><img alt="dotNET" title="dotNET" height="25" src="icon/dotnet.png"></code>
 <code><img alt="JavaScript" title="JavScript" height="20" src="icon/javascript.png"></code>
 <code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
 <code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
