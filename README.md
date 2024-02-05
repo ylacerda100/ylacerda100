@@ -2,7 +2,7 @@
 
 * **Estudante de Ciência da Computação** 🎓
 * **Apaixonado por tecnologia** :heart:
-* **Atualmente desenvolvedor fullstack Jr. na F360** :computer:
+* **Atualmente desenvolvedor Fullstack PL. na F360** :computer:
 * **Tenho estudado:** **ASP .Net Core**, **JavaScript** :book:
 * 💬 **Ask me about:** 🔋 Tecnologia, :ramen:Animes, :video_game:Jogos e :movie_camera:Filmes.
 
