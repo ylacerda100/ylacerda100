@@ -1,47 +1,55 @@
-## Olá, meu nome é Ygor Lacerda! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+## Olá, meu nome é Ygor Lacerda! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-* **Estudante de Ciência da Computação** 🎓
-* **Apaixonado por tecnologia** :heart:
-* **Atualmente desenvolvedor Fullstack PL. na F360** :computer:
-* **Tenho estudado:** **ASP .Net Core**, **JavaScript** :book:
-* 💬 **Ask me about:** 🔋 Tecnologia, :ramen:Animes, :video_game:Jogos e :movie_camera:Filmes.
+- 🎓 **Graduado em Ciência da Computação**
+- 💻 **Desenvolvedor .NET na F360**
+- 🚀 **Atuo principalmente com:** C#, ASP.NET, MongoDB, JavaScript, Git e Docker
+- ☁️ **Expandindo meus conhecimentos em:** Kubernetes, AWS e Google Cloud Platform (GCP)
+- ❤️ **Apaixonado por tecnologia**, aprendizado contínuo e resolver problemas através da programação
+- 💬 **Gosto de conversar sobre:** Tecnologia, Animes, Games e Filmes
 
-<div align = "center">
-<hr> 
-  
-### **Habilidades**
+---
 
-<img alt="CSharp" title="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "40" height = "40" style="max-width = 100%"></img>
-<img alt="dotNET" title="dotNET" src="https://user-images.githubusercontent.com/62801405/129458533-33209443-dffa-42aa-b5d1-b29456f1cd4c.png" width = "40" height = "40" style="max-width = 100%"></img>
-<img alt="MongoDb" title="MongoDb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width = "40" height = "40" style="max-width = 100%"></img>
-<img alt="JavaScript" title="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40" height = "40" style="max-width = 100%"></img>
+<div align="center">
+
+### 🚀 **Habilidades e Tecnologias**
+
+<img alt="CSharp" title="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img alt="dotNET" title=".NET" src="https://user-images.githubusercontent.com/62801405/129458533-33209443-dffa-42aa-b5d1-b29456f1cd4c.png" width="40" height="40"/>
+<img alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img alt="Kubernetes" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img alt="GCP" title="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
 
 </div>
 
-<hr>
+---
 
 <div align="center">
-  <a href="https://github.com/ylacerda100">
+
+### 📊 **GitHub Stats**
+
+<a href="https://github.com/ylacerda100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ylacerda100&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylacerda100&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div> 
-  
-<hr>
-  
-<div align="center">
-  
-### **Fale Comigo:**
-
-<a href="https://www.linkedin.com/in/ygor-lacerda-5450b41a2/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "110" height = "27">
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=+5511953625677" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width = "110" height = "27">
+</div>
+
+---
+
+<div align="center">
+
+### ☕ **Vamos conversar!**
+
+<a href="https://www.linkedin.com/in/ygorlacerda/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120">
 </a>
 
 <a href="mailto:ylacerda100@gmail.com?subject=Hello" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110" height = "27">
-</a></br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120">
+</a>
+
 </div>
-  
